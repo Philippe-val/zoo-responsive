@@ -41,11 +41,6 @@ Pour créer une build de production, utilisez « npm run build ».
 
 - La commande 'yarn dev' vous permettra d’exécuter le micro AP.
 
-# 3. Documenter le code source avec JSDoc:
-
-Installation : [installation de npm Jsdoc](https://www.npmjs.com/package/jsdoc)  
-Inutile si vous avez déjà effectué une installation globale.  
-Ensuite, exécutez la commande 'npm run doc'
 
 ## Technologies:
 
