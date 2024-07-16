@@ -20,7 +20,15 @@ Pour le back end,  entrer cd zoo-back puis exécutez la commande 'npm install' (
 
 Dans chaque terminal, exécutez ensuite la commande 'npm run start'.
 
+Dans un serveur MySQL avec PhPmyadmin créer une base de données zoo.
+Importer le fichier zoo.sql.
+Créer un fichier   .env   en définissant les variables suivantes:
 
+DB_HOST="localhost"
+DB_USER="votre identifiant"
+DB_PASS="votre mot de passe"
+DB_NAME="zoo"
+JWT_SECRET="votre mot secret"
 
 ## Technologies:
 
