@@ -24,9 +24,11 @@ Dans chaque terminal, exécutez ensuite la commande 'npm run start'.
 
 ## Technologies:
 
-Jsx
-Bootstrap 
-React
+Pour le front end, utilisation de Jsx, Bootstrap, création de classe customs en css et React.
+
+Pour le back end, utilisation de Node.js et Express.
+
+
 
 ## Contribuer au projet:
 
