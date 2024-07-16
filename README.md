@@ -28,6 +28,8 @@ Pour le front end, utilisation de Jsx, Bootstrap, création de classe customs en
 
 Pour le back end, utilisation de Node.js et Express.
 
+Pour la base de données utilisation de tables relationnelles dans MariaDB et requêtes SQL.
+
 
 
 ## Contribuer au projet:
