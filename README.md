@@ -1,45 +1,25 @@
 [![forthebadge](https://forthebadge.com/images/badges/cc-0.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com)
 
-# Zoo de Brocéliande back-end: 
+# Zoo de Brocéliande: 
 
 ## 1. Information génétrale:
 
+Le dépôt Git se trouve à : https://github.com/Philippe-val/zoo-responsive
+
 Veuillez suivre les instructions ci-dessous pour démarrer le projet
 
+Dans le même répertoire se trouve l'application front end dans le dossier zoo, et l'application back end dans le dossier zoo-back.
 
 ## 2. Lancement de projet:
 
 Pour démarrer ce projet, vous devez d’abord installer toutes les dépendances.  
-Pour ce faire, exécutez la commande 'npm install' (sans args, dans le répertoire du package)  
+Pour le front end,  entrer cd zoo puis exécutez la commande 'npm install' (sans args, dans le répertoire du package)  
 Cette commande installe tous les packages dont elle dépend.
 
-Exécutez ensuite la commande 'npm run start'.
+Pour le back end,  entrer cd zoo-back puis exécutez la commande 'npm install' (sans args, dans le répertoire du package)
 
-Pour créer une build de production, utilisez « npm run build ».
+Dans chaque terminal, exécutez ensuite la commande 'npm run start'.
 
-# Zoo de Brocélainde front-end
-
-## 1.  Information génétrale:
-
-Veuillez suivre les instructions ci-dessous pour démarrer le projet
-
-## 2.  Lancement de projet:
-
-Pour démarrer ce projet, vous devez d’abord installer toutes les dépendances.  
-Pour ce faire, exécutez la commande 'npm install' (sans args, dans le répertoire du package)  
-Cette commande installe tous les packages dont elle dépend.
-
-Exécutez ensuite la commande 'npm run start'.
-
-Pour créer une build de production, utilisez « npm run build ».
-
-
-
-- Clonez-le sur votre ordinateur.
-
-- La commande 'yarn' vous permettra d’installer les dépendances.
-
-- La commande 'yarn dev' vous permettra d’exécuter le micro AP.
 
 
 ## Technologies:
